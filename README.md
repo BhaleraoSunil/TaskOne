@@ -1,5 +1,5 @@
 # TaskOne
-showing github users list
-fetch users from github api.
-save fetched users in realam database.
-then fetch users from realam and show in recyclerview.
+Demo showing github users list.
+Fetch users from github api.
+Save fetched users in realam database.
+Then show users in recyclerview by fetching from realam.
